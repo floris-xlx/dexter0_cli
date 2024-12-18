@@ -1,0 +1,3 @@
+ffmpeg_install_url: https://dexter.ams3.cdn.digitaloceanspaces.com/ffmpeg.exe
+ffprobe_install_url: https://dexter.ams3.cdn.digitaloceanspaces.com/ffprobe.exe
+ffplay_install_url: https://dexter.ams3.cdn.digitaloceanspaces.com/ffplay.exe

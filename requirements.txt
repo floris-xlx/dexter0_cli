@@ -10,3 +10,4 @@ pytesseract==0.3.13
 websocket-client==1.8.0
 python-dotenv==1.0.1
 tqdm==4.67.1
+PyYAML==6.0.2
